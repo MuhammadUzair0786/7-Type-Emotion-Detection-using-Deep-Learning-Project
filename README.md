@@ -7,13 +7,7 @@ This project presents a custom Convolutional Neural Network (CNN) for detecting 
 ---
 
 ## 📂 Project Structure
-CNN- 7 Type_Emotion_Detection.ipynb 
-# Jupyter Notebook for model training & evaluation
-app.py
-# Flask web application backend Uzair-Emotion_model.h5 
-# Trained CNN model weights static/ uploaded_image.jpg 
-# Uploaded image for prediction templates/ index.html 
-# Frontend HTML template .idea/ # IDE configuration files README.md 
+Type_Emotion_Detection.ipynb # Jupyter Notebook for model training & evaluation app.py # Flask web application backend Uzair-Emotion_model.h5 # Trained CNN model weights static/ uploaded_image.jpg # Uploaded image for prediction templates/ index.html # Frontend HTML template .idea/ # IDE configuration files README.md # Project
 
 ---
 
